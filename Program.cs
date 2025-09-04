@@ -22,6 +22,7 @@
     }
 }
 
+//Teste
 class ConsoleLogger : ILogger
 {
 
