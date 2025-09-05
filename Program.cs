@@ -5,28 +5,35 @@
         ILogger logger = new FileLogger("mylog.txt");
         Conta conta1 = new Conta("Will", 10,logger );
         Conta conta2 = new Conta("Chris", 300,logger );
+        var calculeSoma = new Calcule(Sum);
+        var result = calculeSoma(1, 2);
 
+        //lambda
+        var soma = (int x, int y) => x + y;
+        
         List<Conta> contaList = new List<Conta>
         {  
             conta1, 
             conta2 
         };
 
-
-
+        Console.WriteLine($"Resultado: {result}");
         foreach (var conta in contaList)
         {
             Console.WriteLine($"Nome: {conta.GetNome()}\nSaldo: {conta.Saldo} \n");
         }
 
     }
+    static int Sum(int x, int y)
+    {
+        return x + y;   
+    }
+
 }
 
-//Teste
-class ConsoleLogger : ILogger
-{
+delegate int Calcule (int x, int y);
 
-}
+class ConsoleLogger : ILogger{}
 
 class FileLogger : ILogger
 {
