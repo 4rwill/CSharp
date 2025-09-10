@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SomaEMedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ac79719b458ca039610bbcab8a97977a95b3f14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e20875c12c57023dd635e1db07c408686657b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("SomaEMedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SomaEMedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
