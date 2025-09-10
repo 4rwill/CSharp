@@ -1,0 +1,15 @@
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\bin\Debug\net8.0\SomaEMedia.exe
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\bin\Debug\net8.0\SomaEMedia.deps.json
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\bin\Debug\net8.0\SomaEMedia.runtimeconfig.json
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\bin\Debug\net8.0\SomaEMedia.dll
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\bin\Debug\net8.0\SomaEMedia.pdb
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.AssemblyInfoInputs.cache
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.AssemblyInfo.cs
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.csproj.CoreCompileInputs.cache
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.sourcelink.json
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.dll
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\refint\SomaEMedia.dll
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.pdb
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\SomaEMedia.genruntimeconfig.cache
+C:\Users\christiann\source\AppTestes\2 - Soma e Média\SomaEMedia\obj\Debug\net8.0\ref\SomaEMedia.dll
